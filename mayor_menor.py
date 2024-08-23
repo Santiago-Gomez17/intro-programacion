@@ -1,3 +1,6 @@
-for i in range(1,8):
-    print("#"*i)
-    i+=1
+
+x= int(input("Ingrese un número del 1 al 1000"))
+if x >1000:
+    print(" Dije menor que 1000, aguevado")
+
+
